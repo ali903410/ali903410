@@ -27,8 +27,13 @@ Passionate about building interactive and responsive web applications with moder
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-AliMohamed-black?style=for-the-badge&logo=github" />
   </a>
+
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-AliMohamed-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://vercel.com/ali903410s-projects">
+    <img src="https://img.shields.io/badge/Vercel-My%20Projects-black?style=for-the-badge&logo=vercel" />
   </a>
 </div>
 
